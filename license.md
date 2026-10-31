@@ -157,4 +157,4 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Apex Legends · Actualizado 2026-10-30 · Compartido bajo licencia MIT*
+*Apex Legends · Actualizado 2026-10-31 · Compartido bajo licencia MIT*
